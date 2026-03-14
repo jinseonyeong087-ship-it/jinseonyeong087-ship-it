@@ -23,9 +23,9 @@ Git · GitHub
 
 ## Portfolio
 
-- [Project 1 Name](https://github.com/jinseonyeong087-ship-it/project-1) - 핵심 기능/성과 한 줄 요약
-- [Project 2 Name](https://github.com/jinseonyeong087-ship-it/project-2) - 핵심 기능/성과 한 줄 요약
-- [Project 3 Name](https://github.com/jinseonyeong087-ship-it/project-3) - 핵심 기능/성과 한 줄 요약
+- [walkway](https://github.com/jinseonyeong087-ship-it/walkway) - 공공 Open API 연동, 위치 기반 추천, 산책 데이터 기록 기능을 직접 설계·구현한 백엔드 중심 프로젝트
+- [ONEPIC](https://github.com/jinseonyeong087-ship-it/ONEPIC) - AI 이미지 분석 결과 기반 상품 조회·결제 API 흐름을 구현하고 DB 트랜잭션/무결성 설계 경험을 축적한 팀 프로젝트
+- [Coding-Clover](https://github.com/jinseonyeong087-ship-it/Coding-Clover) - LMS 학습 플랫폼에서 사용자·수강 데이터 모델링과 상태 흐름 설계를 담당하며 DB 중심 개발 역량을 강화한 팀 프로젝트
 
 ---
 
