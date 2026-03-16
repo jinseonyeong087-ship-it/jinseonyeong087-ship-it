@@ -36,9 +36,17 @@ Git · GitHub
 
 ---
 
+ ## Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jinseonyeong087-ship-it&bg_color=ffffff&color=222222&title_color=222222&line=2f80ed&point=2f80ed&area=true&area_color=dbeafe&hide_border=true)
+
+
+
+---
+
 ## Currently Studying
 
 - 정보처리산업기사 실기시험 준비
 - Spring Boot 기반 확장 가능한 백엔드 아키텍처
-- Docker · AWS 기반 배포 자동화
+- Docker · AWS 기반 배포 자동화 실습
 
