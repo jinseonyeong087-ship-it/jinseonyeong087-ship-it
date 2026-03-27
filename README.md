@@ -32,8 +32,8 @@ Git · GitHub
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jinseonyeong087-ship-it&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinseonyeong087-ship-it&layout=compact)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jinseonyeong087-ship-it&theme=default)
+![Top Langs by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jinseonyeong087-ship-it&theme=default)
 
 ---
 
