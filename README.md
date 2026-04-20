@@ -27,6 +27,7 @@ Git · GitHub
 - [ONEPIC](https://github.com/jinseonyeong087-ship-it/ONEPIC) - AI 이미지 분석 결과 기반 상품 조회·결제 API 흐름을 구현하고 DB 트랜잭션/무결성 설계 경험을 축적한 팀 프로젝트
 - [Coding-Clover](https://github.com/jinseonyeong087-ship-it/Coding-Clover) - LMS 학습 플랫폼에서 사용자·수강 데이터 모델링과 상태 흐름 설계를 담당하며 DB 중심 개발 역량을 강화한 팀 프로젝트
 - [MeetUs](https://github.com/jinseonyeong087-ship-it/MeetUs) - AA 역할로 AWS 환경에서 Docker·GitHub Actions 기반 CI/CD 자동배포 파이프라인을 구성하고 ECS/ECR/ALB 배포 흐름을 정리한 프로젝트
+- [MES-project](https://github.com/jinseonyeong087-ship-it/MES-project) - 작업지시·생산실적·재고수불 흐름을 트랜잭션으로 설계하고, API 보안/감사로그/운영 증적까지 정리한 Mini MES 프로젝트
 
 ---
 
